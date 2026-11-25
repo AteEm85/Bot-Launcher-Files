@@ -1,0 +1,202 @@
+{
+"version": "20261125043229",
+"files": {
+"zombie/BMDIE.WAV": [
+221944,
+"a83397a94ce0ccb7702e0122b8d32cfbb5a97583ae5af96ec8dca4b8fd7ac977",
+1
+],
+"zombie/BODIE.WAV": [
+221944,
+"1950500e6047b0b56e477a58ac6d18ca47e9c6c52b8ce7bd0cc59ec9cd6698a1",
+1
+],
+"zombie/Bobgrahm.SPX": [
+14237800,
+"cd932cf424ad1c7696f04c50393078f844101a68a5eb1aae4630be45fadf1e37",
+1
+],
+"zombie/COBWEB.ITM": [
+95,
+"14a5c6785d070e3e45bff1fca137bf41a6a8081b7b6d768f0632af70eeecff3b",
+1
+],
+"zombie/COBWEB.NWX": [
+12496,
+"1d239d295bda772e2dac67ec005d7f64b7167518d80d12e6e25dd0ac8b9da056",
+1
+],
+"zombie/COBWEB.SPX": [
+421616,
+"e3dd6fadd725efc1ebc99a480e8885d6a1ea8d128299618acb7ec75b15db97af",
+1
+],
+"zombie/DRDEATH.SPX": [
+7952000,
+"b00afd17b07175eeaf64a751def2a68a13a367e12c8b1424b6fd64a0d3d1fd98",
+1
+],
+"zombie/DRDIE.WAV": [
+221944,
+"9a69322d20f4e85fadde3ce8cc783bd10f27459766ab28c44f4ea635b7ac1442",
+1
+],
+"zombie/HEALER.NWX": [
+178257,
+"376d8834301be58f2cb678a520987cb2a9a742ed3d148ed95e019cdfa066668f",
+1
+],
+"zombie/HEALER.SPX": [
+7952000,
+"8316ce2028be16ad8a52759c9afed7d52745a44459e751cbf4288035105b8c02",
+1
+],
+"zombie/JACKOLN.ITM": [
+97,
+"0d0b1d324c7e6d34cc6c45cf46a78fab8657407a5216bf4193b479a3bb34fdfe",
+1
+],
+"zombie/JACKOLN.NWX": [
+12496,
+"1d239d295bda772e2dac67ec005d7f64b7167518d80d12e6e25dd0ac8b9da056",
+1
+],
+"zombie/JACKOLN.SPX": [
+421616,
+"6f82dc69c8b12c6eaffcb8b902f3dfb6131b377afb414433e2faee63a465b643",
+1
+],
+"zombie/JADIE.WAV": [
+221944,
+"b15c71b015f9608910e578d6f1874fe58fbc7f348af1f90c5abf109b60f5c623",
+1
+],
+"zombie/JAMES.SPX": [
+12893600,
+"51cd35434cad86d08ee70e708ff217a12096772c9f17241e8e940d60b66f5a8f",
+1
+],
+"zombie/MARY.SPX": [
+10577056,
+"7ab9588ceee92ff498ace8f68c8489bce599a4a749c4880740236550230b4b1c",
+1
+],
+"zombie/PUMPKIN.NWX": [
+188723,
+"10f3ea1f178642cbda1f39a824e2130020802f4572268cd59a3c0e9506ae0ae2",
+1
+],
+"zombie/PUMPKIN.SPX": [
+14237800,
+"f8f262659ced7e907863b16ffe731f11d151a4f03d9f9dee1ba3f1c250b70d9b",
+1
+],
+"zombie/PUMPKNS.ITM": [
+97,
+"abd89b513095557851a065edd81453c052191867bf810e282f3bbf9d0081c328",
+1
+],
+"zombie/PUMPKNS.NWX": [
+12496,
+"1d239d295bda772e2dac67ec005d7f64b7167518d80d12e6e25dd0ac8b9da056",
+1
+],
+"zombie/PUMPKNS.SPX": [
+421616,
+"7c739ebee58b3a861e26eb17d838d2b0df01f7b9328b822ddd66f1190d040519",
+1
+],
+"zombie/SANCHEZ.SPX": [
+10472272,
+"7b1589b71b6cfcd5cf035fef17d3ec31e6328e4ffcf74b08fbb3934df0e45dad",
+1
+],
+"zombie/SKELJAME.NWX": [
+221447,
+"ebc4ea04385431774c87b59b84062b447f06f59a12bbdf5748b255dddd95093a",
+1
+],
+"zombie/SKELJAME.SPX": [
+12893600,
+"999eea7b30b86fbda0345c1de0b4bc5742e7be5f6d767b0182b39ca9d3b5b659",
+1
+],
+"zombie/SZDIE.WAV": [
+221944,
+"dfaadda998942b1a5baadbcedfff45ff884ee5a233380a484f24d9ccc224d027",
+1
+],
+"zombie/TFDIE.WAV": [
+221944,
+"67cb82ba7580f8071e761aafe256fb53d59fb56cd6d10e24137d377b91916b55",
+2
+],
+"zombie/TWOFEATH.SPX": [
+12480992,
+"3a0b13d87ca0ecf1aec20fb7c91ca0ffcdb176bfd94d454f0bdb54525aa0efaf",
+2
+],
+"zombie/ZMOAN1.WAV": [
+102830,
+"91def2dccfdea38647b70947c9d5f65cb603ecfdeb6d07ff5e1901cbb1ee6d09",
+2
+],
+"zombie/ZMOAN2.WAV": [
+94008,
+"df1e2f277529b114f26dede931178743e44a78d20f4c78af0e3a59bb8ebb5da2",
+2
+],
+"zombie/ZMOAN3.WAV": [
+124880,
+"00a4bbd2591b008c0c9c63e5732a88eec1485abcdad04260ba59652f8a075643",
+2
+],
+"zombie/ZMOAN4.WAV": [
+155750,
+"909403d24014698471e8806d4d0db308442c602830e8a6b524681fea2c28e5d6",
+2
+],
+"zombie/ZMOAN5.WAV": [
+94008,
+"97a6aebffd1619dcc950a27cd878464b72cf0ac1c6ea996f0348fb3bbb02cc33",
+2
+],
+"zombie/ZMOAN6.WAV": [
+102830,
+"726a0effe4b6bfa35cc147051e9dd69d2e4710ef822cf28c87e1b29253e22514",
+2
+],
+"zombie/ZMOAN7.WAV": [
+98418,
+"57341ebd0d6b6b861189335b3b251b816a6de18163e351f1bb46ccdf5f92ee92",
+2
+],
+"zombie/ZMOAN8.WAV": [
+58730,
+"8943975f19f9f3785018f35b1d15fa3ff842b24d610dce8dbeea8571e7eb6175",
+2
+],
+"zombie/ZMOAN9.WAV": [
+217488,
+"b2321065f1ec3e87fb0d627939d79276ccfc0ed73949d3afb169af7e2720008e",
+2
+],
+"zombie/halloween.json": [
+8779,
+"b344ae7a039a57b2497cf1cda498fa0f7cbd72a9867b3cba335aa19253d1f68c",
+2
+]
+},
+"parts": [
+{
+"name": "zombie_files_1.zip",
+"size": 28835282,
+"sha256": "d56ec30524b0d87cab029830559c97a4e15725f1fbcee72ecae0303622bcd54a"
+},
+{
+"name": "zombie_files_2.zip",
+"size": 5102784,
+"sha256": "da6e0e9c387fae683dbed934d4eb249136b447c913048c64faf56bb28ce3c4a9"
+}
+]
+}
