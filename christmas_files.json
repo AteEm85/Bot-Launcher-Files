@@ -1,5 +1,5 @@
 {
-"version": "20261125125737",
+"version": "20261125132236",
 "files": {
 "christmas/BMDIE.WAV": [
 40964,
@@ -17157,9 +17157,9 @@
 20
 ],
 "christmas/walls_extra.json": [
-215437,
-"34865e33d260abbd79014c1f4828135e4428319aa1c2565a9406e90fec8f2b55",
-22
+215633,
+"a278ae277f977342ebbf2fa12d2adcc8837a7902eeef8ac1769dd9d1bfe6d3fd",
+23
 ],
 "christmas/music/christmas_ambient.wav": [
 6599536,
@@ -17200,6 +17200,16 @@
 200990,
 "6f3d846ca15504926932ac5da97052386e3acfbcf369755f577589e727d45aab",
 21
+],
+"christmas/NUTWHITE.SPX": [
+14237800,
+"f5981048ef88f3a394fe7ec19c344392c1f2295df8966061f12ec9d684ef8a13",
+23
+],
+"christmas/NUTWHITE.NWX": [
+188723,
+"10f3ea1f178642cbda1f39a824e2130020802f4572268cd59a3c0e9506ae0ae2",
+23
 ]
 },
 "parts": [
@@ -17312,6 +17322,11 @@
 "name": "christmas_files_22.zip",
 "size": 31293,
 "sha256": "0e30475986469a44e676e4f8e3214505e5b8294fa59a2421f7b22da4c0c75d23"
+},
+{
+"name": "christmas_files_23.zip",
+"size": 1495401,
+"sha256": "a9669af3df203bc92694b0b801df3fa79a75cb249e10fa3c6e34aadf0e561bd1"
 }
 ]
 }
