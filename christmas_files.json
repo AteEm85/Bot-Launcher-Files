@@ -1,5 +1,5 @@
 {
-"version": "20261125122608",
+"version": "20261125125737",
 "files": {
 "christmas/BMDIE.WAV": [
 40964,
@@ -17142,9 +17142,9 @@
 20
 ],
 "christmas/lights.json": [
-28180,
-"c3acda8680383b546cf81a58a5789b988abd11f580ae3413572714789f760a22",
-21
+28112,
+"0977128ce657c75be4a6c40dd0c12b9c07f212eff97eb8811c0a1bc421eff612",
+22
 ],
 "christmas/mission_props.json": [
 9982,
@@ -17157,9 +17157,9 @@
 20
 ],
 "christmas/walls_extra.json": [
-215642,
-"3fa5aa9ab8cbe43d248cdda99a9095bdee7eff9129d00d7edb62c09e21d71013",
-20
+215437,
+"34865e33d260abbd79014c1f4828135e4428319aa1c2565a9406e90fec8f2b55",
+22
 ],
 "christmas/music/christmas_ambient.wav": [
 6599536,
@@ -17307,6 +17307,11 @@
 "name": "christmas_files_21.zip",
 "size": 4268554,
 "sha256": "46b73f15ed334121f22ff0a93f3a437fd56d8cf8ee4cbf9d738c9cdb1d26c1a5"
+},
+{
+"name": "christmas_files_22.zip",
+"size": 31293,
+"sha256": "0e30475986469a44e676e4f8e3214505e5b8294fa59a2421f7b22da4c0c75d23"
 }
 ]
 }
