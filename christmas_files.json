@@ -1,5 +1,5 @@
 {
-"version": "20261124172124",
+"version": "20261125122608",
 "files": {
 "christmas/BMDIE.WAV": [
 40964,
@@ -373,8 +373,8 @@
 ],
 "christmas/MRSCLAUS.SPX": [
 10577056,
-"0e05985f3bd4f8c1a3079f8055acb37fa84777c4c26c7d51e53fb9c8f7ada502",
-3
+"2ad6aea5ec3a2816a39560ea7e67d362f4b341d9c0e3dee4fd295bd1db59577e",
+21
 ],
 "christmas/MUD.wav": [
 18034,
@@ -17142,14 +17142,14 @@
 20
 ],
 "christmas/lights.json": [
-28316,
-"af05087ecd8ea1486cf844ef041a041e1aa5ddf43f1257ae62de1ff7758d9d6b",
-20
+28180,
+"c3acda8680383b546cf81a58a5789b988abd11f580ae3413572714789f760a22",
+21
 ],
 "christmas/mission_props.json": [
-7434,
-"c18d7e29730202a2715c0402a23798301b09eee72abb9a5f91166937e1ec1daf",
-20
+9982,
+"ea2754a8acee976a9e9cbf8353a1ea16c36da44c85bb599a78bcb71b1d77a500",
+21
 ],
 "christmas/trees.json": [
 3474,
@@ -17190,6 +17190,16 @@
 45500,
 "fd4f02c71bb9599f5444c43c33d0421efdbb4df01792431d3b2cf2812b5db87b",
 20
+],
+"christmas/MRSCLAUR.SPX": [
+10577056,
+"6ee59e1b9cb0c07aa49048cf1023f8143631e12986e1fc751a2ee84667c75572",
+21
+],
+"christmas/MRSCLAUR.NWX": [
+200990,
+"6f3d846ca15504926932ac5da97052386e3acfbcf369755f577589e727d45aab",
+21
 ]
 },
 "parts": [
@@ -17292,6 +17302,11 @@
 "name": "christmas_files_20.zip",
 "size": 50379248,
 "sha256": "bf99603d51e0cb093ecd43f4078744d79a0f006cb4916a1c6212c4748ebf51ce"
+},
+{
+"name": "christmas_files_21.zip",
+"size": 4268554,
+"sha256": "46b73f15ed334121f22ff0a93f3a437fd56d8cf8ee4cbf9d738c9cdb1d26c1a5"
 }
 ]
 }
