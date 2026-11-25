@@ -1,5 +1,5 @@
 {
-"version": "20261125132236",
+"version": "20261125135449",
 "files": {
 "christmas/BMDIE.WAV": [
 40964,
@@ -17147,9 +17147,9 @@
 22
 ],
 "christmas/mission_props.json": [
-9982,
-"ea2754a8acee976a9e9cbf8353a1ea16c36da44c85bb599a78bcb71b1d77a500",
-21
+9211,
+"fdb5abd02d23a13925d8cfdc7053cd214bb9f085485a25721ba40e056aa364dd",
+24
 ],
 "christmas/trees.json": [
 3474,
@@ -17327,6 +17327,11 @@
 "name": "christmas_files_23.zip",
 "size": 1495401,
 "sha256": "a9669af3df203bc92694b0b801df3fa79a75cb249e10fa3c6e34aadf0e561bd1"
+},
+{
+"name": "christmas_files_24.zip",
+"size": 1913,
+"sha256": "62a19d3d49c7a260d24ef917a46fa5d6e162841035ec4bc0e9267bba0987b180"
 }
 ]
 }
