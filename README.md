@@ -1,5 +1,10 @@
 # Bot Launcher Files
 
-The Christmas Missions' art, sounds and music for the Outlaws Bot Launcher. The launcher downloads what a PC is missing
-when Start Missions is clicked: `christmas_files.json` lists every file (size, sha256, which zip part holds it) and the
-`christmas_files_N.zip` parts hold them. No code lives here.
+The big mod files for the Outlaws Bot Launcher, which downloads what a PC is missing:
+
+- `christmas_files.json` + `christmas_files_N.zip`: the Christmas Missions' art, sounds and music (fetched when Start
+  Missions is clicked, or a Christmas Survival Horde game is launched)
+- `zombie_files.json` + `zombie_files_N.zip`: the Zombie Horde's skins, sounds and Halloween props (fetched when a
+  Survival Horde game is launched)
+
+Each list gives every file's size, sha256 and which zip part holds it. No code lives here.
